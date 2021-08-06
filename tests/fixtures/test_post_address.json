@@ -1,0 +1,15 @@
+[
+    {
+        "model": "meetups_backend.dbpostaddressmodel",
+        "pk": "77e08879-bc81-489c-ae64-990ef17982fe",
+        "fields": {
+            "created_at": "2021-07-30T11:56:22.706Z",
+            "updated_at": null,
+            "country": "Russia",
+            "city": "Kaliningrad",
+            "street": "Central Square",
+            "house_no": "5",
+            "floor": "3"
+        }
+    }
+]

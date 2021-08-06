@@ -1,0 +1,3 @@
+PASSWORD_MIN_LENGTH: int = 6
+
+BIO_MAX_LENGTH: int = 1000

@@ -1,0 +1,15 @@
+[
+    {
+        "model": "meetups_backend.dbpostmodel",
+        "pk": "bebcf224-877c-48b8-ac05-df0ef1cec40e",
+        "fields": {
+            "created_at": "2021-08-02T14:01:04.428Z",
+            "updated_at": null,
+            "user": "69ddda66-25af-4ee4-b481-7945b4f3b2ba",
+            "type": "3e165de9-d421-41eb-abf1-1e10214280f8",
+            "address": "77e08879-bc81-489c-ae64-990ef17982fe",
+            "name": "test name",
+            "description": "descc"
+        }
+    }
+]

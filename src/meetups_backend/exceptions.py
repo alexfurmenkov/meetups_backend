@@ -1,0 +1,2 @@
+class UniqueRecordExistsException(Exception):
+    pass

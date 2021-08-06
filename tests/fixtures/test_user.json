@@ -1,0 +1,14 @@
+[
+    {
+        "model": "meetups_backend.dbusermodel",
+        "pk": "69ddda66-25af-4ee4-b481-7945b4f3b2ba",
+        "fields": {
+            "password": "pbkdf2_sha256$260000$c6Zar1JihxM7Gk1K3eb76S$+6NjqA7Phud9VuEkMliNW7VfZRHFvIJQZmCcwH5P03U=",
+            "last_login": null,
+            "created_at": "2021-07-30T11:45:41.575Z",
+            "updated_at": null,
+            "email": "alex@mail.com",
+            "bio": "bio"
+        }
+    }
+]
